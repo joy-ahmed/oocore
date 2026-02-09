@@ -35,6 +35,7 @@ pip-delete-this-directory.txt
 .tox/
 htmlcov/
 .pytest_cache/
+.ipynb_checkpoints/
 
 # Editors
 .vscode/
